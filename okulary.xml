@@ -1,12 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<oferta xmlns:xsi ="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="okulary.xsd">
+<oferta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="okulary.xsd">
 	<okulary>
-		<dataDostawy></dataDostawy>
+		<kod>1</kod>
 		<producent>Versace</producent>
-		<model>13PV</model>
-		<rozmiar>90</rozmiar>
-		<cena>sdfs</cena>
+		<model>MS-1243</model>
+		<dataDostawy>12-05-2020</dataDostawy>
 	</okulary>
-</oferta>
+	<okulary>
+		<kod>2</kod>
+		<producent>Bulgari</producent>
+		<model>BG-1943</model>
+		<dataDostawy>12-05-2020</dataDostawy>
+	</okulary>
 
+	<producent>
+		<NIP></NIP>
+		<adres>
+			<miasto></miasto>
+			<ulica></ulica>
+			<numer></numer>
+		</adres>
+	</producent>
+</oferta>
