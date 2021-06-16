@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<oferta xmlns:xsi ="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="okulary.xsd">
+	<okulary>
+		<dataDostawy></dataDostawy>
+		<producent>Versace</producent>
+		<model>13PV</model>
+		<rozmiar>90</rozmiar>
+		<cena>sdfs</cena>
+	</okulary>
+</oferta>
+
